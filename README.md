@@ -9,7 +9,7 @@
 <td align="center" width="50%">
 
 ### SIH-2024 Participation Certification
-![SIH-2024 Participation Certificate](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/Certification%20of%20Anurag%20Prabhakar%20Zete%20_1.jpg?raw=true)
+![SIH-2024 Participation Certificate](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/sih2024.jpg?raw=true)
 <details>
   <summary>View Details</summary>
   - Participated in Smart India Hackathon 2024  
@@ -43,14 +43,14 @@
 <tr>
 <td align="center" width="50%">
 
-![Developing with MongoDB](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/1-1e4ecdd3-fe02-4ea2-9b93-3fdf1f3e6ca8_1.jpg?raw=true)  
+![Developing with MongoDB](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/developing%20with%20mongodb.jpg?raw=true)  
 **Developing with MongoDB**
 
 </td>
 
 <td align="center" width="50%">
 
-![Cloud Computing](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/1-4016d1af-f0bd-4b92-97fd-6db735bfde4a_1.jpg?raw=true)  
+![Cloud Computing](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/cloudcomputing.jpg?raw=true)  
 **Cloud Computing**
 
 </td>
@@ -59,14 +59,14 @@
 <tr>
 <td align="center" width="50%">
 
-![Gemini for Google Workspace](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/7799689_80696771737468951616_1.jpg?raw=true)  
+![Gemini for Google Workspace](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/geminiforgoogle.jpg?raw=true)  
 **Gemini for Google Workspace**
 
 </td>
 
 <td align="center" width="50%">
 
-![Java Bootcamp](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/LUEJAVAJAN1251674_1.jpg?raw=true)  
+![Java Bootcamp](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/java.jpg?raw=true)  
 **Java Bootcamp**
 
 </td>
@@ -75,14 +75,14 @@
 <tr>
 <td align="center" width="50%">
 
-![JavaScript Bootcamp](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/LUEJSJAN125585_1.jpg?raw=true)  
+![JavaScript Bootcamp](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/js.jpg?raw=true)  
 **JavaScript Bootcamp**
 
 </td>
 
 <td align="center" width="50%">
 
-![Java for Beginners](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/1-be0173dc-da0e-4999-a586-76d2a69f06be_1.jpg?raw=true)  
+![Java for Beginners](https://github.com/anuragzete/Certificates/blob/main/Certificates/CertificatesImages/javaforbeginners.jpg?raw=true)  
 **Java for Beginners**
 
 </td>
